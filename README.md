@@ -1,2 +1,2 @@
 # my-Git
-this is my bue demo
+this is my vue demo
